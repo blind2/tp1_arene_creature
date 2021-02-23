@@ -1,0 +1,2 @@
+C:\Users\alexa\source\repos\prog3_tp1_deplacementCarte\Debug\prog3_tp1_deplacementCarte.exe
+C:\Users\alexa\source\repos\prog3_tp1_deplacementCarte\Debug\prog3_tp1_deplacementCarte.pdb
